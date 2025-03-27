@@ -1,1 +1,1 @@
-Feel free to delete this and start from scratch.
+An app to put Sentry through its paces with an entertaining cookie ui.
